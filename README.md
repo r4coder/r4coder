@@ -22,8 +22,6 @@ with a focus on reliability, clear architecture and code that is easy to maintai
 <p>
 <a href="https://github.com/r4coder"><img alt="GitHub: r4coder" src="https://img.shields.io/badge/GitHub-r4coder-6d28d9?style=flat-square&amp;labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/ritheeshreddykura/"><img alt="LinkedIn: ritheeshreddykura" src="https://img.shields.io/badge/LinkedIn-ritheeshreddykura-6d28d9?style=flat-square&amp;labelColor=0d1117" /></a>
-<a href="https://leetcode.com/u/ritheesh4coder/"><img alt="LeetCode: ritheesh4coder" src="https://img.shields.io/badge/LeetCode-ritheesh4coder-0891b2?style=flat-square&amp;labelColor=0d1117" /></a>
-<a href="https://www.codechef.com/users/r4coder"><img alt="CodeChef: r4coder" src="https://img.shields.io/badge/CodeChef-r4coder-0891b2?style=flat-square&amp;labelColor=0d1117" /></a>
 </p>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
@@ -201,26 +199,6 @@ Lately that has meant backend services, observability and release tooling, and p
 </picture>
 
 </div>
-
-## Coding Profiles
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://leetcode.com/u/ritheesh4coder/">LeetCode</a></b><br />
-      <sub>Algorithms and data structures practice.</sub>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://www.codechef.com/users/r4coder">CodeChef</a></b><br />
-      <sub>Competitive programming.</sub>
-    </td>
-  </tr>
-</table>
-
-<!--
-  OPTIONAL: dynamic LeetCode card (third-party service, not verified; enable only after checking it renders):
-  <img src="https://leetcard.jacoblin.cool/ritheesh4coder?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode statistics for ritheesh4coder" width="100%" />
--->
 
 <div align="center">
 
