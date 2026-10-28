@@ -193,9 +193,9 @@ Lately that has meant backend services, observability and release tooling, and p
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=r4coder&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=22d3ee&amp;point=ffffff&amp;area=true&amp;area_color=7c3aed&amp;hide_border=true&amp;custom_title=Contribution%20Activity" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=r4coder&amp;bg_color=ffffff&amp;color=6d28d9&amp;line=0891b2&amp;point=24292f&amp;area=true&amp;area_color=a78bfa&amp;hide_border=true&amp;custom_title=Contribution%20Activity" />
-  <img alt="Contribution activity graph for r4coder" src="https://github-readme-activity-graph.vercel.app/graph?username=r4coder&amp;bg_color=0d1117&amp;color=a78bfa&amp;line=22d3ee&amp;point=ffffff&amp;area=true&amp;area_color=7c3aed&amp;hide_border=true&amp;custom_title=Contribution%20Activity" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/r4coder/r4coder/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/r4coder/r4coder/output/github-snake.svg" />
+  <img alt="Contribution graph of r4coder" src="https://raw.githubusercontent.com/r4coder/r4coder/output/github-snake-dark.svg" width="100%" />
 </picture>
 
 </div>
